@@ -1,0 +1,14 @@
+Subject: Exclusive Offer for {{name}}!
+
+Hi {{name}},
+
+As one of our valued {{company}} partners, we're excited to share an exclusive
+offer with you. For a limited time, enjoy special pricing on all our premium
+plans.
+
+Use the code {{code}} at checkout to claim your discount.
+
+This offer expires soon, so don't miss out!
+
+Warmly,
+The {{company}} Marketing Team

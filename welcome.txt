@@ -1,0 +1,17 @@
+Subject: Welcome to {{company}}, {{name}}!
+
+Dear {{name}},
+
+We are thrilled to welcome you to the {{company}} team! Your account has been
+successfully created and you now have access to all our resources.
+
+Getting started is easy:
+1. Log in using the email address you provided.
+2. Complete your profile information.
+3. Explore our knowledge base and tutorials.
+
+If you have any questions, just reply to this email — our support team is here
+to help you 24/7.
+
+Best regards,
+The {{company}} Team
