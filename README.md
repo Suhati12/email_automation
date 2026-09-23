@@ -1,4 +1,5 @@
 
+
 # 📧 Email Automation
 
 A real-world bulk email sender with a polished Tkinter GUI. Send personalized
